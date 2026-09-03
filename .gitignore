@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# APIキー
+.env
+
+# データ（再配布不可）
+raw/
+data/
+
+# 出力（再実行で生成）
+output/
